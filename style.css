@@ -1,0 +1,25 @@
+body {
+    background-color: #b29a59;
+    font-family: 'Courier New', 'monospace';
+}
+h1{
+    color: black;
+    margin-left:20px;
+   
+}
+button {
+    background-color: #ffeaea;
+    font-size: 40px;
+    padding:10px;
+    border-radius: 10;
+    margin: 20px;
+    
+}
+a{
+    color: black;
+    font-family: 'Courier New', monospace;
+}
+
+  
+}
+
